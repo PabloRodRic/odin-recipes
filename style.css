@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    background-color: greenyellow;
+    font-size: 28px;
+    text-align: center;
+}
+
+button {
+    font-size: 25px;
+    padding: 40px;
+    padding-block: 10px;
+}
